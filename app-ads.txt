@@ -1,0 +1,3 @@
+# Bu dosya ayni zamanda https://lee1907.github.io/hoskin-arena-privacy/app-ads.txt
+# adresine de yuklenmeli. GitHub Pages reposuna kopyala.
+google.com, pub-6673608705285210, DIRECT, f08c47fec0942fa0
